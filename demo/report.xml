@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="report.xsl"?>
+<inventory date="2026-11-24">
+  <item code="ST-101"><name>A4 影印紙</name><category>紙品</category><quantity>24</quantity><unit>包</unit><price>120</price></item>
+  <item code="ST-102"><name>文件收納盒</name><category>收納</category><quantity>12</quantity><unit>個</unit><price>85</price></item>
+  <item code="ST-103"><name>黑色原子筆</name><category>文具</category><quantity>36</quantity><unit>支</unit><price>25</price></item>
+  <item code="ST-104"><name>再生筆記本</name><category>文具</category><quantity>18</quantity><unit>本</unit><price>65</price></item>
+</inventory>

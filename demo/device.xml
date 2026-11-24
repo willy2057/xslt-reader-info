@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="device.xsl"?>
+<device><name>示範設備</name><entry><label>文件掃描收件匣</label><address>scanner@example.invalid</address></entry></device>
